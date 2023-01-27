@@ -3,6 +3,8 @@ public class gitTest {
         System.out.println(":444");
         System.out.println(":554");
         System.out.println(":hot");
+
         System.out.println(":master");
+        System.out.println(":hot-fix-test");
     }
 }
